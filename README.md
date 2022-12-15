@@ -5,3 +5,4 @@
 - Knowledgeable in game development, engine design, and reverse engineering
 - [My portfolio](https://devonartmeier.github.io/portfolio/)
 - [My Codewars profile](https://www.codewars.com/users/DevonArtmeier)
+- Also runs the [Sonic CD Deconstructed](https://twitter.com/SCDDeconstruct) Twitter account
